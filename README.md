@@ -1,14 +1,17 @@
-# TRANSACT-SQL Exercises - Part 1
+# TRANSACT-SQL Exercises
 
-**Index**
+## Index
 
-- [01 to 05 - Exercises](https://github.com/rolandougalde/sql_exercises/blob/main/code/exercices_1-5.sql)
-- [06 to 10 - Exercises](https://github.com/rolandougalde/sql_exercises/blob/main/code/exercices_6-10.sql)
-- [11 to 15 - Exercises](https://github.com/rolandougalde/sql_exercises/blob/main/code/exercices_11-15.sql)
-- [16 to 20 - Exercises](https://github.com/rolandougalde/sql_exercises/blob/main/code/exercices_16-20.sql)
-- [21 to 25 - Exercises](https://github.com/rolandougalde/sql_exercises/blob/main/code/exercices_21-25.sql)
+### Exercises - Part 1
 
-## Presenting... MS SQL Challenges - 2st Edition
+- [Part 1 - 01 to 05 - Exercises](https://github.com/rolandougalde/sql_exercises/blob/main/code/exercices_1-5.sql)
+- [Part 1 - 06 to 10 - Exercises](https://github.com/rolandougalde/sql_exercises/blob/main/code/exercices_6-10.sql)
+- [Part 1 - 11 to 15 - Exercises](https://github.com/rolandougalde/sql_exercises/blob/main/code/exercices_11-15.sql)
+- [Part 1 - 16 to 20 - Exercises](https://github.com/rolandougalde/sql_exercises/blob/main/code/exercices_16-20.sql)
+- [Part 1 - 21 to 25 - Exercises](https://github.com/rolandougalde/sql_exercises/blob/main/code/exercices_21-25.sql)
+
+### Exercises - Part 2
+- [Part 2 - 01 to 05 - Exercises](https://github.com/rolandougalde/sql_exercises/blob/main/code/2nd_part_1-5.sql)
 
 ## Classic Practice Course
 Welcome to TRANSACT-SQL Basics, a hands-on tutorial built around a timeless practice database. 
