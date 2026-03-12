@@ -42,5 +42,20 @@ WHERE Total > 5000
 ORDER BY 3 DESC
 
 --20. Show the purchases of customers in March of 1996, 1997, and 1998.
+SET LANGUAGE SPANISH
+
+SELECT
+	YEAR(O.OrderDate) AS [Anio],
+	C.CustomerID,
+	C.CompanyName,
+	O.OrderDate,
+	FORMAT(O.OrderDate, 'MMM') AS [Mes],
+	SUM(OD.Quantity * OD.UnitPrice) AS [Importe Total]
+FROM Customers C
+INNER JOIN Orders O ON O.CustomerID = C.CustomerID
+INNER JOIN [Order Details] OD ON OD.OrderID = O.OrderID
+WHERE YEAR(O.OrderDate) IN ('1996', '1997', '1998')
+	AND MONTH(O.OrderDate) = 3
+GROUP BY C.CustomerID, C.CompanyName, O.OrderDate
 
 END
