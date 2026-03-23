@@ -1,6 +1,10 @@
 # TRANSACT-SQL Exercises
 
-## Index
+## Description
+This project is a curated set of SQL exercises designed for practice on a well-known classic teaching database. 
+It covers fundamental to intermediate SQL concepts in a progressive order, helping learners build confidence and fluency in querying relational databases.
+
+## Table of Contents
 
 ### Exercises - Part 1
 
